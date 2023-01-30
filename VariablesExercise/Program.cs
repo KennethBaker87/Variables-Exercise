@@ -14,6 +14,7 @@
             Console.WriteLine($"{number1}, {number2}, {number1} {number2} {number3} ");
             Console.WriteLine($"{ah} ba ba bird bird bird");
             Console.WriteLine($"{bird}");
+            Console.WriteLine($"{yes}");
         }
     }
 }
